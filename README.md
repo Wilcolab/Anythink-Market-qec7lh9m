@@ -26,7 +26,7 @@ To run the ExpressJS server using Docker, follow these steps:
 
   This command will build the Docker image for the ExpressJS server and start the containers defined in the `docker-compose.yml` file.
 
-- The ExpressJS server should now be running. You can access it at port `8000`.
+- The ExpressJS server should now be running. You can access it at port `8001`.
 
 ## API Routes
 
